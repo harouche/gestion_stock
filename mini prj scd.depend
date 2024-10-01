@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727804589 source:c:\users\ycode\desktop\pro\mini-projet  système de gestion de contacts\mini-projet  système de gestion de contacts\mini-projet  système de gestion de contacts\mini prj scd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
